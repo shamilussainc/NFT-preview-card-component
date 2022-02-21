@@ -66,6 +66,7 @@ main .img-container .view {
 
 main .img-container:hover {
   background-color: var(--cyan);
+  cursor: pointer;
 }
 
 main .img-container:hover .equilibrium {
