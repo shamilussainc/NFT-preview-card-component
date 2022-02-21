@@ -5,7 +5,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -18,8 +17,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 Here is my second Frontend Mentor project. A NFT preview card component which contain NFT image, title, description, value, time remaining and information about creator. I have used HTML5 and SCSS to build this project.
 
-
-### The challenge
 
 Users should be able to:
 
